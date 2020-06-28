@@ -45,7 +45,7 @@ const Layout = props => {
           <div className="site-head-right">
             <div className="social-links">
               <a
-                href="https://www.facebook.com"
+                href="https://m.facebook.com/Cristian-Palacios-Photography-104799927961365"
                 title="Facebook"
                 target="_blank"
                 rel="noopener noreferrer"

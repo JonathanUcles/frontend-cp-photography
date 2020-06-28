@@ -1,10 +1,10 @@
 module.exports = {
-  name: "London",
-  shortName: "London",
+  name: "Cristian Palacios Photography",
+  shortName: "CP Phots",
   description:
-    "A bold, minimal theme for Gatsby, focused on clean typography & beautiful imagery",
+    "Phoenix-based Photographer, for any business inquires please contact me!",
   url: "https://gatsby-london.netlify.com", // Domain of your site without prefix!
   prefix: "/",
-  author: "Imed Adel",
-  twitter: "Imed_Adel",
+  author: "Jonathan Ucles",
+  twitter: "Jonathan Ucles",
 }
